@@ -1,4 +1,4 @@
-# Traffic Sign Detection and Recognition Using YOLO v11
+# Traffic Sign Detection and Recognition Using YOLO11
 
 ## Project Overview
 This project aims to develop a computer vision system (ADAS) capable of detecting and recognizing traffic signs in real-time from video or image inputs. By leveraging the YOLO (You Only Look Once) v11 model, the system can quickly and accurately identify various traffic signs on the road. The primary goal is to assist autonomous vehicles and advanced driver-assistance systems (ADAS) in understanding and reacting to road signs, thus improving safety and aiding in navigation.
